@@ -4,3 +4,6 @@
   Para isso, estou utilizando as video-aulas e exercícios do Mundo Python (Guanabara), que têm me ajudado bastante a fixar o conteúdo. Cada exercício que resolvo é uma oportunidade de aprender algo novo e perceber minha evolução, mesmo que ainda esteja nos primeiros passos.
 
   Minha ideia é seguir estudando com consistência, registrando meu progresso e evolução com a linguagem Python.
+
+
+Innício da jornada: 20/Set/2025
