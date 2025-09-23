@@ -6,4 +6,4 @@
   Minha ideia é seguir estudando com consistência, registrando meu progresso e evolução com a linguagem Python.
 
 
-## Início da jornada: 20/Set/2025
+###### Início da jornada: 20/Set/2025
