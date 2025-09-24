@@ -8,4 +8,5 @@ ________________________________________________________________________________
 '''
 n1 = int(input('Digite um número: '))
 
-print('O número digitado foi {},\n seu dobro é {},\n seu triplo é {},\n e sua raiz quadrada é {}'.format(n1, n1*2, n1*3, n1**0.5))
+print('O número digitado foi {},\n seu dobro é {},\n seu triplo é {},\n e sua raiz quadrada é {:.2f}'.format(n1, n1*2, n1*3, n1**0.5))
+
