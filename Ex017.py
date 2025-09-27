@@ -7,8 +7,8 @@ da hipotenusa.
 ________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 '''
-from math import sqrt
+from math import hypot
 co = float(input('Digite um comprimento: '))
 ca = float(input('Digite outro comprimento: '))
-hip = sqrt(co**2+ca**2)
+hip = hypot(co, ca)
 print('O Triângulo cujo o Cateto Oposto é {:.2f} e o Cateto Adjacente é {:.2f}, tem sua hipotenusa no valor de {:.1f}'.format(co,ca,hip))
